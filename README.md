@@ -19,4 +19,5 @@ ________________________________________________________________________________
    ![alt text](https://github.com/zaid7860/fake_news_detection_LSTM/blob/master/Screenshot%202020-07-08%20at%2012.01.02%20AM.png?raw=true)
 
 7. Training and calculating accuracy 
+  ![alt_txt](https://github.com/zaid7860/fake_news_detection_LSTM/blob/master/Screenshot%202020-07-08%20at%2012.07.32%20AM.png?raw=true)
 ____________________________________________________________________________________________________
