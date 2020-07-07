@@ -16,7 +16,7 @@ ________________________________________________________________________________
    !(https://keras.io/api/preprocessing/text/)
 5. Using keras-> Padding to make sentence equal as LSTM only accepts sentences with same length, This will add 0 if required.
 6. Defining a shallow LSTM model, which binds maximum number of words with 32 activation units. 
-   ![alt text](Screenshot 2020-07-08 at 12.01.02 AM.png)
+   ![alt text](https://github.com/zaid7860/fake_news_detection_LSTM/blob/master/Screenshot%202020-07-08%20at%2012.01.02%20AM.png?raw=true)
 
 7. Training and calculating accuracy 
 ____________________________________________________________________________________________________
